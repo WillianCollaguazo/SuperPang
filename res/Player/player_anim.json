@@ -1,0 +1,36 @@
+{
+    "anims": [
+        {
+            "key": "stop",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_3"
+                }
+            ]
+        },
+        {
+            "key": "move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 7,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "player_0"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_1"
+                },
+                {
+                    "key": "player",
+                    "frame": "player_2"
+                }
+            ]
+        }
+    ]
+}
